@@ -12,7 +12,7 @@ const MONTHLY_MULTIPLIER: Record<string, number> = {
   daily: 30,
   weekly: 4.345,
   monthly: 1,
-  quarterly: 1 / 3,
+  quarterly: 1 / 4,
   yearly: 1 / 12,
   annual: 1 / 12,
 };
